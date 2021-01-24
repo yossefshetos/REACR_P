@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Home from './../Home/index';
 import About from './../About/index';
-import Contact from './../Contact/index';
 import Profile from './../Profile/index';
 import Portfolio from './../Portfolio/index';
 import SocialMedia from './../SocialMedia/index';

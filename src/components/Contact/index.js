@@ -6,7 +6,7 @@ const Contact = () => {
   return(
     <React.Fragment>
       <ContactSection>
-      <div class="container">
+      <div className="container">
         <ContactTitle><Span>Drop </Span>Me A line</ContactTitle>
         <Form>
             <FormInput>
